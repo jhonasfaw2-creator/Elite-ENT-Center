@@ -38,6 +38,14 @@ authentication provider and enforce session and role checks on the server and
 at every protected data-access boundary; a route group's layout alone is not a
 substitute for data authorization.
 
+## Design system
+
+Design tokens live in `src/app/globals.css` and shared primitives in
+`src/components/ui`. The reference page at `/design-system` renders the full
+palette, type scale, and component set and is not linked from public
+navigation. Usage rules and token tables are documented in
+[`docs/design-system.md`](docs/design-system.md).
+
 ## Local development
 
 Install dependencies with `npm install`, then run `npm run dev`. The project

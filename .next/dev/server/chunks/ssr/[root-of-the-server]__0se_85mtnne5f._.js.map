@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/johannes/Desktop/eliteENT/src/app/(public)/page.tsx"],"sourcesContent":["export default function HomePage() {\n  return (\n    <main className=\"mx-auto flex min-h-screen max-w-5xl flex-col justify-center px-6 py-16\">\n      <p className=\"text-sm font-medium text-neutral-600\">Addis Ababa, Ethiopia</p>\n      <h1 className=\"mt-3 text-4xl font-semibold tracking-tight text-neutral-950\">\n        Elite ENT Center\n      </h1>\n      <p className=\"mt-4 max-w-xl text-lg text-neutral-600\">\n        Ear, nose, and throat care. The public website is ready to build on this\n        foundation.\n      </p>\n    </main>\n  );\n}\n"],"names":["HomePage","className"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;;0BACd,8OAAC;gBAAEA,WAAU;0BAAuC;;;;;;0BACpD,8OAAC;gBAAGA,WAAU;0BAA8D;;;;;;0BAG5E,8OAAC;gBAAEA,WAAU;0BAAyC;;;;;;;;;;;;AAM5D"}}]
+}

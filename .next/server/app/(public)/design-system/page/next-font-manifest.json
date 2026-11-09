@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/(public)/design-system/page": [
+      "static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2",
+      "static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

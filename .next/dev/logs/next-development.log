@@ -1,0 +1,14 @@
+{"timestamp":"00:00:01.264","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.264","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and reconfigured your tsconfig.json file for you."}
+{"timestamp":"00:00:01.264","source":"Server","level":"LOG","message":"  The following mandatory changes were made to your tsconfig.json:\n"}
+{"timestamp":"00:00:01.264","source":"Server","level":"LOG","message":"  \t- jsx was set to react-jsx (next.js uses the React automatic runtime)"}
+{"timestamp":"00:00:01.265","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.374","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:18.630","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:34.865","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:34.615","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:05:00.679","source":"Server","level":"LOG","message":"✓ Compiled in 1400ms"}
+{"timestamp":"00:07:32.666","source":"Server","level":"LOG","message":"✓ Compiled in 137ms"}
+{"timestamp":"00:07:37.670","source":"Server","level":"LOG","message":"✓ Compiled in 136ms"}
+{"timestamp":"00:09:44.208","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:10:56.412","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
